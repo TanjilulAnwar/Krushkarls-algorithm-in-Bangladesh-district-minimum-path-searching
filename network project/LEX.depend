@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490213501 source:e:\lolbaba\lex\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490213932 source:d:\algorithm\network project\main.c
+	<stdio.h>
+	<stdlib.h>
+

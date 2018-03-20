@@ -1,0 +1,24 @@
+
+1. (MUNSHIGANJ<-->NARAYANGANJ) = 26 Kilometers
+
+2. (DHAKA<-->GAZIPUR) = 27 Kilometers
+
+3. (DHAKA<-->NARAYANGANJ) = 31 Kilometers
+
+4. (KISHOREGANJ<-->NARSINGDI) = 38 Kilometers
+
+5. (KISHOREGANJ<-->NETROKONA) = 44 Kilometers
+
+6. (GAZIPUR<-->KISHOREGANJ) = 53 Kilometers
+
+7. (DHAKA<-->MANIKGANJ) = 54 Kilometers
+
+8. (MYMENSINGH<-->NETROKONA) = 59 Kilometers
+
+9. (MANIKGANJ<-->TANGAIL) = 60 Kilometers
+
+10. (JAMALPUR<-->SHERPUR) = 62 Kilometers
+
+11. (JAMALPUR<-->MYMENSINGH) = 88 Kilometers
+
+	Minimum path to cover = 542 Kilometers
